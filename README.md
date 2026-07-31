@@ -56,4 +56,4 @@ cicids2017-soc/
 
 - Sharafaldin, Lashkari, Ghorbani (2018), *Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization*, ICISSP.
 - [MITRE ATT&CK](https://attack.mitre.org/)
-- [DistriNet CIC-IDS2017 labeling audit](https://intrusion-detection.distrinet-research.be/CNS2022/CICIDS2017.html)
+- [https://intrusion-detection.distrinet-research.be/CNS2022/CICIDS2017.html](https://www.unb.ca/cic/datasets/ids-2017.html)
