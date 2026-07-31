@@ -49,7 +49,7 @@ cicids2017-soc/
 
 ## Team
 
-- Analysis: _add names_
+- Analyst: Team Members
 - Dataset: [CIC-IDS2017](https://www.unb.ca/cic/datasets/ids-2017.html)
 
 ## References
