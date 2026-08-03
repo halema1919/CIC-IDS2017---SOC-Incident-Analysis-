@@ -1,1 +1,3 @@
+This search provides an overview of all traffic in the Wednesday dataset by counting the number of flows for each attack label. It shows that DoS Hulk is the most common attack with 231,073 flows, while Heartbleed appears only 11 times. This screenshot establishes the scope of the investigation by confirming that both DoS attacks and the Heartbleed exploit are present. It also demonstrates that DoS attacks generate a much larger volume of traffic, whereas Heartbleed consists of only a few targeted connections.
+<img width="1710" height="663" alt="Screenshot 2026-08-01 at 12 02 51 AM" src="https://github.com/user-attachments/assets/92646b16-86e0-4576-a1f6-ee71beb52a34" />
 
